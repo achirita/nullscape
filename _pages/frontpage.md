@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: About
+list_title: Explorations
 ---
 
-Hello world
+Whether you’re looking to learn, experiment, or build, nullscape is about sharing the tools and knowledge needed to get started with generative design.
