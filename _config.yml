@@ -1,0 +1,13 @@
+theme: minima
+
+minima:
+  skin: solarized
+
+title: nullscape
+description: Exploring algorithms
+
+include:
+  - _pages
+
+exclude:
+  - README.md
