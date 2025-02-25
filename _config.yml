@@ -5,6 +5,8 @@ minima:
 
 title: nullscape
 
+header_pages:
+
 include:
   - _pages
 
