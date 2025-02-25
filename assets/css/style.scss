@@ -1,0 +1,8 @@
+---
+---
+
+$border-color-03: #7c334f;
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
