@@ -4,13 +4,9 @@ minima:
   skin: solarized
 
 title: nullscape
-description: Exploring algorithms
 
 include:
   - _pages
-
-header_pages:
-  - _pages/archive.md
 
 exclude:
   - README.md
