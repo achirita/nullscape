@@ -8,7 +8,9 @@ description: Exploring algorithms
 
 include:
   - _pages
-  - _posts
+
+header_pages:
+  - _pages/archive.md
 
 exclude:
   - README.md
